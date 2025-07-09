@@ -13,7 +13,7 @@ The website is fully responsive and built using modern web development practices
 
 ## 🔗 Live Preview
 
-**[View Live Website](https://your-live-link.com)**
+**[View Live Website](https://harshmishra.onrender.com)**
 
 ## 🛠️ Technologies Used
 - **Frontend:**
